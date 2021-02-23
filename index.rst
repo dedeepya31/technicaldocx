@@ -11,7 +11,7 @@ Welcome to ABC's documentation!
    :numbered:
    
    first.md
-
+   name.md
 
 
 Indices and tables
@@ -20,3 +20,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
